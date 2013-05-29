@@ -1,0 +1,24 @@
+.sign-up-block {
+	width:350px;
+	float:left;
+	padding: 20px 50px 20px 50px;
+	border: 1px solid #f2f2f2;
+	margin: 10px 20px 20px 10px;
+	}
+.sign-up-head {
+	font-size: 22px;
+	line-height: 35px;
+	margin: 0px 0px 20px 0px;
+	 border-bottom: 2px solid #F2F2F2;
+	}
+.ab-form-feilds {
+	margin: 0px 0px 15px 0px;
+	height: 30px;
+	line-height:30px;
+
+	}
+
+.textbox-right-align {
+	float:right;
+
+	}
